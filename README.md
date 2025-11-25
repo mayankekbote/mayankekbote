@@ -14,7 +14,7 @@ I focus on building **ML pipelines**, **backend systems (FastAPI)**, and **data-
 
 ---
 
-## 🚀 Tech Stack (Futuristic Edition)
+## 🚀 Tech Stack 
 
 ### **Core Skills**
 🔹 **Python**  
