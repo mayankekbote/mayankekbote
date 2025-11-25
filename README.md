@@ -44,25 +44,15 @@ I focus on building **ML pipelines**, **backend systems (FastAPI)**, and **data-
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankekbote&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankekbote&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankekbote&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🏆 Achievements & Highlights
+- ⭐ Secured 1st Rank in CDAC ACTS Python Programming for Web Development 60 Hrs Course 
 - ⭐ Built multiple ML & DL projects  
 - ⭐ Experience with API-driven ML pipelines  
 - ⭐ Strong understanding of Python ecosystem  
-- ⭐ Actively building Data Structures & Algorithms foundational strength  
+
 
 ---
 
