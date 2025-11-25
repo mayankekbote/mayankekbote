@@ -22,6 +22,8 @@ I focus on building **ML pipelines**, **backend systems (FastAPI)**, and **data-
 🔹 **Deep Learning**  
 🔹 **Natural Language Processing (NLP)**  
 🔹 **Data Analysis**  
+🔹 **SQL**  
+🔹 **Java**  
 
 ### **Libraries & Tools**
 🔸 **Pandas**  
